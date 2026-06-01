@@ -37,12 +37,17 @@ Premium ESP32-S3 AMOLED AI smartwatch firmware
 
 [Get on Ko-fi] [Watch Demo] [Features] [Setup Preview]
 
-## Demo
-![Watch UI](assets/14934.gif) Animated Clock
-![Watch UI](assets/14935.gif) Settings
-![Watch UI](assets/14936.gif) Soft Paper Theme
-![Watch UI](assets/14937.gif) AI Feauture
-![Watch UI](assets/14938.gif) Themes
+# Demo
+# Animated Clock
+![Watch UI](assets/14934.gif) 
+# Settings
+![Watch UI](assets/14935.gif) 
+# Soft Paper Theme 
+![Watch UI](assets/14936.gif) 
+# AI Feauture
+![Watch UI](assets/14937.gif) 
+# Themes 
+![Watch UI](assets/14938.gif) 
 
 ## How is it different from v1.0?
 | Area                  | Earlier Version                                    | Upgraded Version                                                                     |
