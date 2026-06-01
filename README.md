@@ -61,18 +61,18 @@ Premium ESP32-S3 AMOLED AI smartwatch firmware
 - Future update access, if you want to offer that
 
 ## Supported Hardware
-Mention the exact ESP32-S3 AMOLED watch board/display this is built for.
+https://www.waveshare.com/wiki/ESP32-S3-Touch-AMOLED-2.06
 
 ## Required Cloud Services
 OpenRouter, Deepgram, AssemblyAI.
 
 ## Important Notes
-Buyers need their own API keys.
+User need their own API keys.
 Internet is required for AI/STT.
 This is a developer firmware, not a medical/safety device.
 
 ## Buy the Firmware
-Ko-fi CTA again.
+Wait for update
 
 ## License / Usage
 Personal use only, no resale, no redistribution.
