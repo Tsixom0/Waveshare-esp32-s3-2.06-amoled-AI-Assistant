@@ -35,7 +35,7 @@ Prototype firmware, needs API keys, internet required for AI/STT
 # TsixomAIWatch Buddy v2.0
 Premium ESP32-S3 AMOLED AI smartwatch firmware
 
-[Get on Ko-fi] [Watch Demo] [Features] [Setup Preview]
+[Get on Ko-fi https://ko-fi.com/s/7e4864a32d] [Watch Demo] [Features] [Setup Preview]
 
 # Demo
 # Animated Clock
